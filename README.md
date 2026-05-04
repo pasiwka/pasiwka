@@ -1,4 +1,4 @@
-#Привет) я Оля Павлюченкова
+<img align="left" src="ava.jpg" width="150" height="150" style="border-radius: 50%;" />
 ### frontend-developer
 
 ---
