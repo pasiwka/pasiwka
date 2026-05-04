@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ava.png"  style="border-radius: 50%;" />
+  <img src="ava1.png"  style="border-radius: 50%;" />
 </p>
 
 ## 👋 Обо мне
